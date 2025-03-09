@@ -2,6 +2,7 @@
 
 import { useState, useRef } from "react"
 import { Button } from "@/components/ui/button"
+// Switch back to standard import
 import { Play, Pause } from "lucide-react"
 
 export default function AudioPlayer() {
